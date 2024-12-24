@@ -81,7 +81,7 @@ These visualizations help improve city management and decision-making, allowing 
 To optimize city operations, advanced algorithms and data structures are employed:
 - **Graph Data Structures**: Used to represent the city's infrastructure for efficient analysis of traffic flow and optimization algorithms.
 - **Dijkstra’s Algorithm**: Used to calculate the most optimal traffic routes in real-time, improving traffic management during peak hours.
-- **SARIMAX (Seasonal AutoRegressive Integrated Moving Average with Exogenous Regressors)**: A forecasting model used to predict future air quality levels based on historical data.
+
 
 These algorithms ensure the system can offer real-time insights and make data-driven decisions that benefit the city's infrastructure and citizens.
 
